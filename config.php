@@ -3,7 +3,7 @@ use Medoo\Medoo;
 
 $database = new Medoo([
 	'database_type' => "mysql",
-	'database_name' => "x2elite_cagocon",
+	'database_name' => "x2elite_x2kids",
 	'server' => "localhost",
 	'username' => "root",
 	'password' => "",
