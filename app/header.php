@@ -16,10 +16,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Work+Sans:wght@100;300;400;500;700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/30cfa4516b.js" crossorigin="anonymous"></script>
     <!-- main.css -->
-    <link rel="stylesheet" type="text/css" href="css/main.css?v=2.02">
+    <link rel="stylesheet" type="text/css" href="css/main.css?v=1.02">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="<?php
-if (file_exists(stream_resolve_include_path($alias . '.php'))) {echo 'css/' . $alias . '.css?v=2.02';}
+if (file_exists(stream_resolve_include_path($alias . '.php'))) {echo 'css/' . $alias . '.css?v=1.02';}
 ?>">
     <meta property="og:url" content="https://x2globalmedia.com<?=$_SERVER['REQUEST_URI']?>" />
     <meta property="og:type" content="article" />
