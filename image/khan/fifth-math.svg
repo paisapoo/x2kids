@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="369px" height="192px" viewBox="0 0 369 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Khan-Academy" transform="translate(-498.000000, -1320.000000)" fill="#2DFFCC">
+            <g id="Group-33-Copy" transform="translate(495.000000, 1320.000000)">
+                <g id="Group-5" transform="translate(0.000000, -17.000000)">
+                    <text id="x" transform="translate(26.419607, 113.095739) rotate(26.000000) translate(-26.419607, -113.095739) " font-family="AlltheWaytotheSun, All the Way to the Sun" font-size="60" font-weight="normal">
+                        <tspan x="13.1774198" y="132.095739">x</tspan>
+                    </text>
+                    <text id="y" transform="translate(155.748151, 34.357382) rotate(-19.000000) translate(-155.748151, -34.357382) " font-family="AlltheWaytotheSun, All the Way to the Sun" font-size="60" font-weight="normal">
+                        <tspan x="142.462018" y="53.3573822">y</tspan>
+                    </text>
+                    <text id="x" transform="translate(252.040268, 104.468954) rotate(-19.000000) translate(-252.040268, -104.468954) " font-family="AlltheWaytotheSun, All the Way to the Sun" font-size="100" font-weight="normal">
+                        <tspan x="229.969955" y="136.468954">x</tspan>
+                    </text>
+                    <text id="y" transform="translate(101.819358, 156.948788) rotate(-19.000000) translate(-101.819358, -156.948788) " font-family="AlltheWaytotheSun, All the Way to the Sun" font-size="40" font-weight="normal">
+                        <tspan x="92.9619358" y="169.948788">y</tspan>
+                    </text>
+                    <text id="x" transform="translate(358.819358, 99.948788) rotate(-19.000000) translate(-358.819358, -99.948788) " font-family="AlltheWaytotheSun, All the Way to the Sun" font-size="40" font-weight="normal">
+                        <tspan x="349.991233" y="112.948788">x</tspan>
+                    </text>
+                    <text id="y" transform="translate(286.222105, 198.714352) rotate(55.000000) translate(-286.222105, -198.714352) " font-family="AlltheWaytotheSun, All the Way to the Sun" font-size="100" font-weight="normal">
+                        <tspan x="264.078551" y="230.714352">y</tspan>
+                    </text>
+                    <circle id="Oval" cx="55" cy="52" r="18"></circle>
+                    <circle id="Oval-Copy" cx="329" cy="29" r="18"></circle>
+                    <circle id="Oval-Copy-2" cx="145" cy="206" r="14"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

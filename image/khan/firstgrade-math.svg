@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="362px" height="192px" viewBox="0 0 362 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Khan-Academy" transform="translate(-895.000000, -884.000000)" fill="#FF6064">
+            <g id="Group-12" transform="translate(895.000000, 884.000000)">
+                <g transform="translate(-6.000000, -26.000000)">
+                    <text id="+" font-family="Gilroy-Black" font-size="60" font-weight="700">
+                        <tspan x="43.2" y="115">+</tspan>
+                    </text>
+                    <text id="-" font-family="Gilroy-Black" font-size="60" font-weight="700">
+                        <tspan x="144" y="80">-</tspan>
+                    </text>
+                    <g id="Group-11" transform="translate(341.000000, 117.000000)">
+                        <text id="-" font-family="Gilroy-Black" font-size="60" font-weight="700">
+                            <tspan x="0" y="46">-</tspan>
+                        </text>
+                        <circle id="Oval" cx="15" cy="14" r="5"></circle>
+                        <circle id="Oval-Copy-3" cx="15" cy="43" r="5"></circle>
+                    </g>
+                    <g id="Group-11-Copy" transform="translate(84.000000, 0.000000)">
+                        <text id="-" font-family="Gilroy-Black" font-size="60" font-weight="700">
+                            <tspan x="0" y="46">-</tspan>
+                        </text>
+                        <circle id="Oval-Copy-3" cx="15" cy="43" r="5"></circle>
+                    </g>
+                    <text id="--copy-2" font-family="Gilroy-Black" font-size="60" font-weight="700">
+                        <tspan x="0" y="168">-</tspan>
+                    </text>
+                    <text id="+-copy" font-family="GillSans-UltraBold, Gill Sans" font-size="100" font-weight="700">
+                        <tspan x="257.150391" y="229">+</tspan>
+                    </text>
+                    <text id="=" font-family="GillSans-UltraBold, Gill Sans" font-size="100" font-weight="700">
+                        <tspan x="174.150391" y="152">=</tspan>
+                    </text>
+                    <text id="+" transform="translate(328.500000, 65.000000) rotate(-315.000000) translate(-328.500000, -65.000000) " font-family="GillSans-UltraBold, Gill Sans" font-size="40" font-weight="700">
+                        <tspan x="315.160156" y="80">+</tspan>
+                    </text>
+                    <text id="+-copy-3" font-family="GillSans-UltraBold, Gill Sans" font-size="40" font-weight="700">
+                        <tspan x="102.160156" y="201">+</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

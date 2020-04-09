@@ -34,49 +34,25 @@ new WOW().init();
     });
 
 var loca = window.location.pathname;
-$('.nav-item').find('a').each(function() {
+$('.nav-bottom-link').each(function() {
      var link = "/"+$(this).attr('href');
          if(loca == "/"){
       loca = "/home";
          }
-      var parentTag = $(this).parent();
+      //var parentTag = $(this).parent();
     
-     parentTag.toggleClass('active', link == loca);  
+     $(this).toggleClass('active', link == loca);  
 
   });
 
-$('.stepwizard-step').find('button').each(function() {
-     var link = "/"+$(this).attr('href');
-         if(loca == "/"){
-      loca = "/home";
-         }
-      var parentTag = $(this);
-  
-     parentTag.toggleClass('btn-active-form', link == loca);  
 
-  });
-
- var navDrop = $(".navbar-nav .dropdown");
-      navDrop.each(function(){
-              var $this = $(this);
-           $(this).mouseover(function (){
-                $this.addClass('show');
-
-                let navLink =$this.find('.nav-link');
-                navLink.attr('aria-expanded','true');
-                $this.find('.dropdown-menu').addClass('show');
-              });
-           $(this).mouseleave(function (){
-            $this.removeClass('show');
-                let navLink =   $this.find('.nav-link');
-                navLink.attr('aria-expanded','false');
-                $this.find('.dropdown-menu').removeClass('show');
-
-           });
-
-      });
-
-
+// for x2kids
+$(".nav-bottom-link").mouseover(function(){
+  $(this).addClass("rubberBand animated");
+})
+$(".nav-bottom-link").mouseleave(function(){
+  $(this).removeClass("rubberBand animated");
+})
 </script>
 
 <?php

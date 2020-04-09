@@ -1,0 +1,52 @@
+.text-pac-title {
+    font-family: Pacifico;
+    font-size: 45px;
+    font-weight: normal;
+    color: #f0464a;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.text-wor-con {
+    font-family: Work Sans;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #37bef9;
+    line-height: 1.14;
+}
+
+.text-con {
+    margin-top: 1.5rem;
+    font-size: 20px;
+    font-weight: 600;
+    color: #121212;
+}
+
+.welcome {
+    margin: 100px 0;
+    padding: 60px;
+    border-radius: 35px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.09);
+    background-color: #ffffff;
+    min-height: 400px;
+}
+.home1-img{
+	width: 100%;
+    transition: width 1s;
+
+}
+.home1-img:hover{
+    width: 110%;
+
+}
+.home2-img{
+    position: absolute;
+    width: 350px;
+    bottom:0;
+    right: 0;
+    transition: width 0.5s;
+}
+.home2-img:hover{
+    width: 400px;
+}

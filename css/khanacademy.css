@@ -1,0 +1,156 @@
+.header-title {
+    background-color: #61C2A2;
+    background-image: url("../image/khan/khan-banner-06.svg");
+    background-size: 100%;
+    padding: 4rem 0;
+}
+
+.content {
+    padding: 3rem 0;
+}
+
+.bg-gray {
+    background-color: #efefef;
+}
+
+.div-title .text-content {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.link-box {
+    display: table;
+    cursor: pointer;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    height: 150px;
+    width: 100%;
+    margin: 1rem;
+    border-radius: 35px;
+    position: relative;
+    transition: box-shadow 300ms cubic-bezier(0.15, 0.29, 0.02, 0.99);
+
+}
+
+.link-box span {
+    display: table-cell;
+    vertical-align: middle;
+    transition: font-size 300ms cubic-bezier(0.15, 0.29, 0.02, 0.99);
+}
+
+.link-box:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+.gr1-box {
+    background-color: #ffc000;
+    background-image: url("../image/khan/element-grammar.svg");
+}
+
+.gr2-box {
+    background-color: #f8961f;
+    background-image: url("../image/khan/kinder-math.svg");
+}
+
+.gr3-box {
+    background-color: #f0464a;
+    background-image: url("../image/khan/firstgrade-math.svg");
+}
+
+.gr4-box {
+    background-color: #7fb548;
+    background-image: url("../image/khan/sencond-math.svg");
+}
+
+.gr5-box {
+    background-color: #37bef9;
+    background-image: url("../image/khan/third-math.svg");
+}
+
+.gr6-box {
+    background-color: #4232cc;
+    background-image: url("../image/khan/fourth-math.svg");
+}
+
+.gr7-box {
+    background-color: #00edb4;
+    background-image: url("../image/khan/fifth-math.svg");
+}
+
+/*Middle*/
+
+.gr8-box {
+    background-color: #f8961f;
+    background-image: url("../image/khan/sixth-math.svg");
+}
+
+.gr9-box {
+    background-color: #f0464a;
+    background-image: url("../image/khan/seven-math.svg");
+}
+
+.gr10-box {
+    background-color: #7fb548;
+    background-image: url("../image/khan/eight-math.svg");
+}
+
+.gr11-box {
+
+    background-color: #37bef9;
+    background-image: url("../image/khan/computer-science.svg");
+}
+
+.gr12-box {
+    background-color: #4232cc;
+    background-image: url("../image/khan/hour-code.svg");
+}
+
+.gr13-box {
+    background-color: #00edb4;
+    background-image: url("../image/khan/Computer-Programming .svg");
+}
+
+/*high*/
+.high-img {
+    width: 100%;
+}
+
+.high-box {
+    margin: 0.5rem 0;
+    width: 100%;
+    height: 55px;
+    text-align: center;
+    display: table;
+    cursor: pointer;
+    border-radius: 11px;
+   
+    font-weight: 600;
+    font-size: 18px;
+    transition: 300ms all ease-out;
+  
+}
+
+.high-box span {
+
+    display: table-cell;
+    vertical-align: middle;
+}
+.high-max{
+	 border: solid 2px #ff7901;
+	   color: #ff7901;
+}
+.high-max:hover{
+	color:#fff;
+	background-color: #ffc000;
+}
+.high-his{
+	 border: solid 2px #15bff4;
+	   color: #15bff4;
+}
+.high-his:hover{
+	 color: #fff;
+	 background-color: #15bff4;
+}

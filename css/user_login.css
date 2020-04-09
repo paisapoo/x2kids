@@ -1,0 +1,185 @@
+/*
+@font-face {
+  
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Work Sans', sans-serif;
+
+
+}*/
+@import "animate.css";
+body {
+
+    margin: 0 auto;
+    font-family: 'Work Sans', sans-serif;
+}
+.container{
+	position: relative;
+}
+.login-box {
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    border-radius: 45px;
+    box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.12);
+    background-color: #ffffff;
+    padding: 3rem;
+    padding-bottom: 4.5rem;
+    position: relative;
+    z-index: 2;
+}
+
+.title-box {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: #f0464a;
+    text-align: center;
+}
+
+.field {
+    position: relative;
+
+    width: 100%;
+    display: flex;
+    background: rgba(255, 255, 255, 0.94);
+}
+
+.field span {
+    color: #222;
+    width: 40px;
+    line-height: 45px;
+    margin-top: 4px;
+}
+
+.field span.fa {
+    position: absolute;
+    color: #f0464a;
+    width: 40px;
+    line-height: 45px;
+    left: 15px;
+    top: 4px;
+}
+
+.field input {
+    padding: 1rem 0.375rem;
+    padding-left: 2.5rem;
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border-radius: 5px;
+    border: solid 1px #f0464a;
+    outline: none;
+    color: #222;
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.space {
+    margin-top: 16px;
+}
+
+.show {
+    position: absolute;
+    right: 13px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #222;
+    display: none;
+    cursor: pointer;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.pass-key:valid~.show {
+    display: block;
+}
+
+.text-seccundary {
+    font-size: 15px;
+    font-weight: 500;
+    color: #414141;
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 0.5em;
+    text-decoration: underline;
+
+}
+
+.btn-login {
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #ffc000;
+    border-radius: 30px;
+    height: 60px;
+    width: 230px;
+}
+.btn-login:hover{
+	 color: #fff;
+    background-color: #FFD555;
+}
+.login-footer{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	
+	width: 100%;
+	border-bottom-left-radius: 45px;
+	border-bottom-right-radius: 45px;
+	background-color: #f0464a;
+	 box-shadow: 0px 15px 10px -15px rgba(0, 0, 0, 0.3);
+	 padding:1em 0.5em;
+	 text-align: center;
+	 color:#fff;
+	 font-size:18px; 
+	 font-weight:bold;   
+}
+.top-logo{
+	position: relative;
+	height: 100px;
+}
+.top-logo img{
+	position: absolute;
+	left: 0rem;
+	top:1rem;
+	width: 200px;
+}
+.bottom-foot{
+	width: 100%;
+	margin-top:5em;
+	padding:2rem 0rem;
+	background-color: #37bef9;
+}
+.bottom-foot .list-unstyled{
+	text-align: right;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+.bottom-foot .copy-right{
+	color:#fff;
+	font-size: 18px;
+	font-weight: bold;
+}
+.bg-login-01{
+	position: absolute;
+	z-index: 0;
+	width: 500px;
+	top: 0;
+	right: 0;
+}
+.bg-login-02{
+	position: absolute;
+	z-index: 0;
+	width: 250px;
+	left:0;
+	bottom:-9rem;
+}
+.bg-login-03{
+    position: absolute;
+    top: 30%;
+    left: 4rem;
+    z-index: 3;
+    width: 200px;
+
+}
